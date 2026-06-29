@@ -29,8 +29,8 @@
 	<properties>
 		<java.version>21</java.version>
 		   <!-- SonarQube -->
-    <sonar.projectKey>demobatch</sonar.projectKey>
-    <sonar.projectName>demobatch</sonar.projectName>
+    <sonar.projectKey>demos-sonar</sonar.projectKey>
+    <sonar.projectName>demos-sonar</sonar.projectName>
     <sonar.host.url>http://localhost:9000</sonar.host.url>
 	</properties>
 	<dependencies>
