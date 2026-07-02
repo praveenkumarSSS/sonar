@@ -1,4 +1,6 @@
-FROM eclipse-temurin:17-jre
+FROM eclipse-temurin:21-jre
+
+WORKDIR /app
 
 COPY target/demo.jar app.jar
 
